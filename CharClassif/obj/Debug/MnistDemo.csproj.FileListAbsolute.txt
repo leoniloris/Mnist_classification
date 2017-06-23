@@ -1,0 +1,38 @@
+C:\Users\leoni.win7-PC\Downloads\ConvNetSharp-master\Examples\MnistDemo\bin\Debug\MnistDemo.exe.config
+C:\Users\leoni.win7-PC\Downloads\ConvNetSharp-master\Examples\MnistDemo\bin\Debug\MnistDemo.exe
+C:\Users\leoni.win7-PC\Downloads\ConvNetSharp-master\Examples\MnistDemo\bin\Debug\MnistDemo.pdb
+C:\Users\leoni.win7-PC\Downloads\ConvNetSharp-master\Examples\MnistDemo\bin\Debug\ConvNetSharp.dll
+C:\Users\leoni.win7-PC\Downloads\ConvNetSharp-master\Examples\MnistDemo\bin\Debug\ConvNetSharp.pdb
+C:\Users\leoni.win7-PC\Downloads\ConvNetSharp-master\Examples\MnistDemo\obj\Debug\MnistDemo.exe
+C:\Users\leoni.win7-PC\Downloads\ConvNetSharp-master\Examples\MnistDemo\obj\Debug\MnistDemo.pdb
+C:\Users\leoni.win7-PC\Downloads\ConvNetSharp-master\Examples\MnistDemo\obj\Debug\MnistDemo.csprojResolveAssemblyReference.cache
+C:\Users\leoni.win7-PC\Desktop\digit\MnistDemo\bin\Debug\MnistDemo.exe.config
+C:\Users\leoni.win7-PC\Desktop\digit\MnistDemo\obj\Debug\MnistDemo.exe
+C:\Users\leoni.win7-PC\Desktop\digit\MnistDemo\obj\Debug\MnistDemo.pdb
+C:\Users\leoni.win7-PC\Desktop\digit\MnistDemo\bin\Debug\MnistDemo.exe
+C:\Users\leoni.win7-PC\Desktop\digit\MnistDemo\bin\Debug\MnistDemo.pdb
+C:\Users\leoni.win7-PC\Desktop\digit\MnistDemo\bin\Debug\ConvNetSharp.dll
+C:\Users\leoni.win7-PC\Desktop\digit\MnistDemo\obj\Debug\MnistDemo.csprojResolveAssemblyReference.cache
+C:\Users\leoni.win7-PC\Desktop\digit\MnistDemo\bin\Debug\System.Web.dll
+C:\Users\leoni.win7-PC\Google Drive\work\Digit\MnistDemo\bin\Debug\MnistDemo.exe.config
+C:\Users\leoni.win7-PC\Google Drive\work\Digit\MnistDemo\obj\Debug\MnistDemo.exe
+C:\Users\leoni.win7-PC\Google Drive\work\Digit\MnistDemo\obj\Debug\MnistDemo.pdb
+C:\Users\leoni.win7-PC\Google Drive\work\Digit\MnistDemo\bin\Debug\MnistDemo.exe
+C:\Users\leoni.win7-PC\Google Drive\work\Digit\MnistDemo\bin\Debug\MnistDemo.pdb
+C:\Users\leoni.win7-PC\Google Drive\work\Digit\MnistDemo\bin\Debug\ConvNetSharp.dll
+C:\Users\leoni.win7-PC\Google Drive\work\Digit\MnistDemo\bin\Debug\System.Web.dll
+C:\Users\leoni.win7-PC\Google Drive\work\Digit\MnistDemo\obj\Debug\MnistDemo.csprojResolveAssemblyReference.cache
+C:\Users\leoni.win7-PC\Google Drive\work\Digit\MnistDemo\bin\Debug\AForge.dll
+C:\Users\leoni.win7-PC\Google Drive\work\Digit\MnistDemo\bin\Debug\AForge.Imaging.dll
+C:\Users\leoni.win7-PC\Google Drive\work\Digit\MnistDemo\bin\Debug\AForge.Math.dll
+C:\Users\leoni\Google Drive\work\Digit\MnistDemo\bin\Debug\MnistDemo.exe.config
+C:\Users\leoni\Google Drive\work\Digit\MnistDemo\bin\Debug\MnistDemo.exe
+C:\Users\leoni\Google Drive\work\Digit\MnistDemo\bin\Debug\MnistDemo.pdb
+C:\Users\leoni\Google Drive\work\Digit\MnistDemo\bin\Debug\AForge.dll
+C:\Users\leoni\Google Drive\work\Digit\MnistDemo\bin\Debug\AForge.Imaging.dll
+C:\Users\leoni\Google Drive\work\Digit\MnistDemo\bin\Debug\AForge.Math.dll
+C:\Users\leoni\Google Drive\work\Digit\MnistDemo\bin\Debug\ConvNetSharp.dll
+C:\Users\leoni\Google Drive\work\Digit\MnistDemo\bin\Debug\System.Web.dll
+C:\Users\leoni\Google Drive\work\Digit\MnistDemo\obj\Debug\MnistDemo.csprojResolveAssemblyReference.cache
+C:\Users\leoni\Google Drive\work\Digit\MnistDemo\obj\Debug\MnistDemo.exe
+C:\Users\leoni\Google Drive\work\Digit\MnistDemo\obj\Debug\MnistDemo.pdb
