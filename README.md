@@ -1,7 +1,7 @@
 # Mnist_classification
 Short extract of c# code in which we train a CNN for MNIST classification
 
-###### Everything is uploaded (included the already processed MNIST datasets, they're in 'CharClassif\bin\Debug' with the name of  dataset_testing.dat and dataset_training.dat)
+##### Everything is uploaded (included the already processed MNIST datasets, they're in 'CharClassif\bin\Debug' with the name of  dataset_testing.dat and dataset_training.dat)
 
 That’s a Visual Studio 2017 project, so, to open it, you should have visual studio and the latest version of .net installed.
 Just run the application and the console will guide you.
