@@ -24,6 +24,7 @@ net.AddLayer(new FullyConnLayer(50));
 net.AddLayer(new SoftmaxLayer(33));
 ```
 Pretty straightforward.
+## Details
 
 For details about a CNN, each layer, its computations and other results, head to one of my repositories [parallel_computing_2](https://github.com/leoniloris/parallel_computing_2). You'll find a Python implementation of a CNN for a [Kaggle](https://www.kaggle.com) competition, as well as a [tecnical article](https://github.com/leoniloris/parallel_computing_2/blob/master/Relatorio_Trabalho02.pdf) named 'Relatorio_Trabalho02.pdf' which details several aspects of a CNN. 
 
