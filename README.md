@@ -10,8 +10,6 @@ here, you can
 * Train the network
 * Test the network (using the network 'best', in 'CharClassif\bin\Debug', which I trained)
 
-## The Code
-
 In 'Program.cs' you'll find a conventional definition for a CNN network:
 ```
 net = new Net();
